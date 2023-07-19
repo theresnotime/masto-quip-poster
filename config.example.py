@@ -1,0 +1,5 @@
+API_URL = ""
+ACCESS_TOKEN = ""
+MAX_QUOTE_LENGTH = 200
+POST_VISIBILITY = "private"
+DRY_RUN = True
