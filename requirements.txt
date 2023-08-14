@@ -1,4 +1,4 @@
 requests==2.31.0
 beautifulsoup4==4.12.2
-tox==4.6.4
+tox==4.8.0
 Mastodon.py==1.8.1
